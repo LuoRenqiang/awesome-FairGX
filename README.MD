@@ -41,21 +41,38 @@ Augmented graph learning (AGL) has emerged as a powerful direction in modern gra
 ### References
 
 [1] Harper, F. M., & Konstan, J. A. (2015). *The MovieLens Datasets: History and Context*. ACM Transactions on Interactive Intelligent Systems.
+
 [2] Ni, J., Li, J., & McAuley, J. (2019). *Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects*. EMNLP-IJCNLP.
+
 [3] Li, Y., Yang, Y., Cao, J., Liu, S., Tang, H., & Xu, G. (2024). *Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach*. KDD.
+
 [4] Takac, L., & Zabovsky, M. (2012). *Data Analysis in Public Social Networks*. Present Day Trends of Innovations.
+
 [5] Wan, H., Zhang, Y., Zhang, J., & Tang, J. (2019). *AMiner: Search and Mining of Academic Social Networks*. Data Intelligence.
+
 [6] Dai, E., & Wang, S. (2023). *Learning Fair Graph Neural Networks with Limited and Private Sensitive Attribute Information*. IEEE TKDE.
+
 [7] Asuncion, A., & Newman, D. (2007). *UCI Machine Learning Repository*.
+
 [8] Jordan, K. L., & Freiburger, T. L. (2015). *The effect of race/ethnicity on sentencing*. Journal of Ethnicity in Criminal Justice.
+
 [9] Yeh, I., & Lien, C. (2009). *The Comparisons of Data Mining Techniques for Predicting Credit Card Default*. Expert Systems with Applications.
+
 [10] Kipf, T. N., & Welling, M. (2017). *Semi-Supervised Classification with Graph Convolutional Networks*. ICLR.
+
 [11] Hu, W., Fey, M., Zitnik, M., Dong, Y., Ren, H., Liu, B., Catasta, M., & Leskovec, J. (2020). *Open Graph Benchmark*. NeurIPS.
+
 [12] Bojchevski, A., & Günnemann, S. (2018). *Deep Gaussian Embeddings of Graphs*. ICLR.
+
 [13] Leskovec, J., & McAuley, J. (2012). *Learning to Discover Social Circles in Ego Networks*. NeurIPS.
+
 [14] Borgwardt, K. M., Ong, C. S., Schönauer, S., Vishwanathan, S. V. N., Smola, A. J., & Kriegel, H.-P. (2005). *Protein Function Prediction via Graph Kernels*. Bioinformatics.
+
 [15] Dobson, P. D., & Doig, A. J. (2003). *Distinguishing Enzyme Structures from Non-Enzymes without Alignments*. Journal of Molecular Biology.
+
 [16] Yanardag, P., & Vishwanathan, S. V. N. (2015). *Deep Graph Kernels*. KDD.
+
 [17] Tschandl, P., Rosendahl, C., & Kittler, H. (2018). *The HAM10000 Dataset*. Scientific Data.
+
 [18] Xia, Y., Ma, B., Dou, Q., & Xia, Y. (2024). *Enhancing Federated Learning Performance Fairness via Collaboration Graph-based Reinforcement Learning*. MICCAI.
 
